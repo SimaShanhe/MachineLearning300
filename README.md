@@ -59,25 +59,25 @@
   </tr>
   <tr>
     <td><a href="blog/ml/7.集成方法-随机森林和AdaBoost.md">第 8 章: 随机森林</a></td>
-    <td>分类（集成）</td>
+    <td>集成</td>
     <td><a href="https://github.com/****">待领取</a></td>
     <td>********</td>
   </tr>
     <tr>
     <td><a href="blog/ml/7.集成方法-随机森林和AdaBoost.md">第 9 章: AdaBoost</a></td>
-    <td>分类（集成）</td>
+    <td>集成</td>
     <td><a href="https://github.com/****">待领取</a></td>
     <td>********</td>
   </tr>
   <tr>
     <td><a href="blog/ml/7.集成方法-随机森林和AdaBoost.md">第 10 章: Xgboost</a></td>
-    <td>分类（集成）</td>
+    <td>集成</td>
     <td><a href="https://github.com/****">待领取</a></td>
     <td>********</td>
   </tr>
     <tr>
     <td><a href="blog/ml/7.集成方法-随机森林和AdaBoost.md">第 11 章: GBDT</a></td>
-    <td>分类（集成）</td>
+    <td>集成</td>
     <td><a href="https://github.com/****">待领取</a></td>
     <td>********</td>
   </tr>

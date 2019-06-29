@@ -59,21 +59,18 @@
 
 ### Q7：常用的损失函数有哪些？
 （1）0-1损失函数：
-![](http://latex.codecogs.com/gif.latex?\begin{equation}
+![](http://latex.codecogs.com/gif.latex?
 f(x)=\left\{
-\begin{aligned}
 x & = & \cos(t) \\
 y & = & \sin(t) \\
 z & = & \frac xy
-\end{aligned}
-\right.
-\end{equation})
+\right.)
 
 ### Q8：机器学习三要素是什么？
 【备注】概念来自《李航-统计学习方法》，个人认为一般的机器学习方法也是由这三要素组成的，理解这三要素对于理解机器学习理论很有帮助，尤其是未经过科班学习的同学，常常会对算法和模型之类的字眼有所混淆。
 
 一个完整的机器学习方法（或统计学习方法）是由模型、策略和算法构成的：
-![](http://latex.codecogs.com/gif.latex?方法=模型+策略+算法)
+方法 = 模型 + 策略 + 算法
 
 基于监督学习的三要素解释如下：
 - **模型**

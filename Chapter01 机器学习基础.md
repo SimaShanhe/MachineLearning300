@@ -1,17 +1,4 @@
-<head>
-    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
-    <script type="text/x-mathjax-config">
-        MathJax.Hub.Config({
-            tex2jax: {
-            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
-            inlineMath: [['$','$']]
-            }
-        });
-    </script>
-</head>
 
-
-$$l = \sum_{n=1}^{100} n$$
 ### Q1：机器学习是什么？
 【官方说法】它是一门致力于如何通过计算的方式，利用经验来改善系统自身性能的学科（参见《周志华-机器学习》）。
 【白话解释】
@@ -72,12 +59,7 @@ $$l = \sum_{n=1}^{100} n$$
 
 ### Q7：常用的损失函数有哪些？
 （1）0-1损失函数：
-![](http://latex.codecogs.com/gif.latex?
-f(x)=\left\{
-x & = & \cos(t) \\
-y & = & \sin(t) \\
-z & = & \frac xy
-\right.)
+![](http://latex.codecogs.com/gif.latex?L(Y,f(X))=1 if Y\neq f(X) else 0)
 
 ### Q8：机器学习三要素是什么？
 【备注】概念来自《李航-统计学习方法》，个人认为一般的机器学习方法也是由这三要素组成的，理解这三要素对于理解机器学习理论很有帮助，尤其是未经过科班学习的同学，常常会对算法和模型之类的字眼有所混淆。

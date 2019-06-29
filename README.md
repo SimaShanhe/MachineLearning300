@@ -16,7 +16,7 @@
     <th>微信</th>
   </tr>
   <tr>
-    <td><a href="blog/ml/1.机器学习基础.md"> 第 1 章: 机器学习基础</a></td>
+    <td><a href="Chapter01 机器学习基础.md"> 第 1 章: 机器学习基础</a></td>
     <td>介绍</td>
     <td><a href="https://github.com/SimaShanhe">@司马山河</a></td>
     <td>liuxuehai2011</td>
